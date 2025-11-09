@@ -44,6 +44,6 @@ Jika Anda menggunakan *username* atau *password* MySQL yang berbeda (default XAM
 ## 📚 Dokumentasi Tambahan
 
 Untuk detail lengkap mengenai analisis sistem, diagram alur, dan manfaat proyek, silakan baca laporannya di sini:
-* [📄 Laporan Lengkap Proyek (PDF)](docs/Laporan_Akhir_Kelompok_4.pdf)
+* [📄 Laporan Lengkap Proyek (PDF)](docs/LAPORAN_AKHIR_KELOMPOK_4.pdf)
   
 created by: Valerian
